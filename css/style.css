@@ -188,12 +188,12 @@ body {
 }
 
 .logreg-box.active .form-box.login{
-    transform: translateX(430px);
+    transform: translateX(630px);
     transition-delay: 0s;
 }
 
 .logreg-box .form-box.register {
-    transform: translateX(430px);
+    transform: translateX(630px);
     transition: transform .6s ease;
     transition-delay: 0s;
 }
